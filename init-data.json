@@ -1,0 +1,163 @@
+[
+    {
+      "name": "Латте",
+      "description": "Очень вкусно",
+      "price": 380,
+      "discounted_price": 350,
+      "sku": "SKU001",
+      "photo": "photo1.jpg"
+    },
+    {
+      "name": "Американо",
+      "description": "Ароматный кофе",
+      "price": 340,
+      "discounted_price": 320,
+      "sku": "SKU002",
+      "photo": "photo2.jpg"
+    },
+    {
+      "name": "Раф",
+      "description": "Вкусный кофе",
+      "price": 400,
+      "discounted_price": 380,
+      "sku": "SKU003",
+      "photo": "photo3.jpg"
+    },
+    {
+      "name": "Эспрессо",
+      "description": "Классический вкус",
+      "price": 300,
+      "discounted_price": 280,
+      "sku": "SKU004",
+      "photo": "photo4.jpg"
+    },
+    {
+      "name": "Капучино",
+      "description": "Нежная пена",
+      "price": 370,
+      "discounted_price": 350,
+      "sku": "SKU005",
+      "photo": "photo5.jpg"
+    },
+    {
+      "name": "Моккачино",
+      "description": "Шоколадное наслаждение",
+      "price": 390,
+      "discounted_price": 360,
+      "sku": "SKU006",
+      "photo": "photo6.jpg"
+    },
+    {
+      "name": "Кофе с молоком",
+      "description": "Идеально на утро",
+      "price": 350,
+      "discounted_price": 330,
+      "sku": "SKU007",
+      "photo": "photo7.jpg"
+    },
+    {
+      "name": "Гляссе",
+      "description": "Сливочное удовольствие",
+      "price": 410,
+      "discounted_price": 390,
+      "sku": "SKU008",
+      "photo": "photo8.jpg"
+    },
+    {
+      "name": "Флэт Уайт",
+      "description": "Кофе с насыщенным вкусом",
+      "price": 380,
+      "discounted_price": 360,
+      "sku": "SKU009",
+      "photo": "photo9.jpg"
+    },
+    {
+      "name": "Латте Маккиато",
+      "description": "Элегантный выбор",
+      "price": 400,
+      "discounted_price": 380,
+      "sku": "SKU010",
+      "photo": "photo10.jpg"
+    },
+    {
+      "name": "Чай Латте",
+      "description": "Для любителей чая",
+      "price": 370,
+      "discounted_price": 340,
+      "sku": "SKU011",
+      "photo": "photo11.jpg"
+    },
+    {
+      "name": "Какао",
+      "description": "Сладкий и согревающий",
+      "price": 340,
+      "discounted_price": 320,
+      "sku": "SKU012",
+      "photo": "photo12.jpg"
+    },
+    {
+      "name": "Карамельный Раф",
+      "description": "С добавлением карамели",
+      "price": 420,
+      "discounted_price": 400,
+      "sku": "SKU013",
+      "photo": "photo13.jpg"
+    },
+    {
+      "name": "Мятный Мокка",
+      "description": "Шоколад и мята",
+      "price": 390,
+      "discounted_price": 370,
+      "sku": "SKU014",
+      "photo": "photo14.jpg"
+    },
+    {
+      "name": "Ореховый Капучино",
+      "description": "С добавлением орехового сиропа",
+      "price": 380,
+      "discounted_price": 360,
+      "sku": "SKU015",
+      "photo": "photo15.jpg"
+    },
+    {
+      "name": "Черный Кофе",
+      "description": "Просто и вкусно",
+      "price": 310,
+      "discounted_price": 290,
+      "sku": "SKU016",
+      "photo": "photo16.jpg"
+    },
+    {
+      "name": "Кофе с сиропом",
+      "description": "Выберите любимый вкус",
+      "price": 370,
+      "discounted_price": 350,
+      "sku": "SKU017",
+      "photo": "photo17.jpg"
+    },
+    {
+      "name": "Кофе по-венски",
+      "description": "Сливки и шоколад",
+      "price": 400,
+      "discounted_price": 380,
+      "sku": "SKU018",
+      "photo": "photo18.jpg"
+    },
+    {
+      "name": "Ирландский кофе",
+      "description": "Кофе с ирландским вкусом",
+      "price": 450,
+      "discounted_price": 420,
+      "sku": "SKU019",
+      "photo": "photo19.jpg"
+    },
+    {
+      "name": "Кофе с корицей",
+      "description": "Теплый аромат корицы",
+      "price": 360,
+      "discounted_price": 340,
+      "sku": "SKU020",
+      "photo": "photo20.jpg"
+    }
+  ]
+  
